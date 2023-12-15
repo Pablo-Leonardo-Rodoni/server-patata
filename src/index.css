@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+:root {
+  font-family: "Indie Flower", cursive, Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+  font-weight: 600;
+  color: #fff;
+  background: #fefefe;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+*,
+html,
+body,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 0;
+  padding: 0 0;
+  background-image: url("./images/backgrounds/fondo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  grid-area: header;
+}
+
+aside {
+  grid-area: aside;
+}
+
+main {
+  grid-area: main;
+  display: flex;
+  justify-content: center;
+}

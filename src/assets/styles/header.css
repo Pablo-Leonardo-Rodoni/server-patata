@@ -1,0 +1,148 @@
+.nav-container {
+  display: flex;
+  margin: 0;
+  padding: 1rem;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.3rem;
+  backdrop-filter: blur(1rem);
+}
+
+.span-header {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.logo-text {
+  margin: 0 0.1rem;
+}
+
+.a-brand .img-brand {
+  display: flex;
+  width: 10rem;
+}
+
+.dropdown-btn {
+  display: none;
+}
+
+.ul-nav {
+  list-style-type: none;
+  display: flex;
+}
+
+.a-nav {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  padding: 0 0.2rem;
+}
+
+.a-nav svg {
+  fill: currentColor;
+  height: 56px;
+  width: 56px;
+  padding: 1rem 0;
+  margin: 0;
+}
+
+/* @media screen and (max-width: 768px) {
+  .nav-container {
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.1rem 1rem;
+  }
+
+  .logo-text {
+    display: none;
+  }
+
+  .a-brand .img-brand {
+    padding: 0 1rem;
+    max-width: 15rem;
+  }
+
+  .dropdown-btn {
+    display: block;
+    cursor: pointer;
+    border: none;
+    color: #000;
+    background-color: #00000033;
+  }
+
+  .nav-header {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    flex-direction: column;
+    align-items: end;
+    gap: 1rem;
+    top: 0;
+    right: 0;
+    margin: 4rem 0;
+    padding: 0 0.2rem;
+    background-color: #00000033;
+  }
+
+  .nav-header.active {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .ul-nav {
+    flex-direction: column;
+    align-items: end;
+  }
+
+  .li-nav .a-nav {
+    text-decoration: none;
+    color: #000;
+    display: flexbox;
+    padding: 1rem 1.5rem;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .nav-container {
+    position: absolute;
+    width: 100px;
+    height: 64px;
+    top: 0;
+    right: 0;
+    margin: 0.2rem 0;
+    padding: 0 1rem;
+    backdrop-filter: blur(10px);
+  }
+
+  .dropdown-btn {
+    display: block;
+    width: 100%;
+    height: 2rem;
+    border-radius: 5rem;
+    background-color: transparent;
+  }
+
+  .a-brand .img-brand {
+    display: none;
+  }
+
+  .nav-header.active {
+    width: 300px;
+    display: flex;
+    position: absolute;
+    left: -16rem;
+    height: 4rem;
+    margin: 4.2rem 3.8rem;
+  }
+  .ul-nav {
+    flex-direction: row;
+  }
+
+  .anchor-nav {
+    display: none;
+  }
+} */
