@@ -7,10 +7,14 @@ const SmokeLoading = () => (
     loop={false}
     autoplay={true}
     style={{
-      width: "100vw",
+      display: "block",
+      position: "absolute",
+      minHeight: "100%",
+      width: "100%",
       height: "100vh",
       margin: "0 0",
-      padding: "0",
+      padding: "0 0",
+      left: "0",
     }}
   />
 );

@@ -13,6 +13,7 @@ function App() {
     <>
       <BrowserRouter>
         <Layout />
+
         <Routes>
           <Route index path="/" element={<Home />} />
           <Route path="/store" element={<Store />} />

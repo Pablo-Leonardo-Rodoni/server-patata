@@ -1,0 +1,70 @@
+{
+  "EARTH": {
+    "name": "earth",
+    "id": "EARTH",
+    "lore": "Deep within the world, where the earth sings its ancient song, an ancient power emerges. The strength of the earth calls to you from the roots of centennial trees and the mountains that touch the sky. Feel the pulse of nature in your veins and awaken the gift of the ancient guardians. Master the magic of nature, where trees sway to the rhythm of the wind, and flowers whisper forgotten secrets. With every spell, channel the power of the elements and defend your domains with earthy powers that shake the very ground. Your connection to the natural world grants you unmatched wisdom and strength that emanates from the planet's foundations. Face titanic challenges and fearsome foes with the confidence of one who knows the darkest secrets of the earth. Protect your home with the fierceness of an earthquake and the unwavering stability of a mountain. Nature's magic is in your hands; use it wisely and let your legacy flourish in the history of this magical and majestic world. Your destiny awaits, guardian of the earth!",
+    "info": {
+      "rates": "low",
+      "exp": "x1",
+      "drop": "x1",
+      "safeChantArmor": 6,
+      "maxChantArmor": 12,
+      "safeChantWeapon": 6,
+      "maxChantWeapon": 12,
+      "custom": false
+    },
+    "download": "https://www.mega.com",
+    "background-img": "/src/images/backgrounds/bg_pag_info_earth.png"
+  },
+  "WATER": {
+    "name": "water",
+    "id": "WATER",
+    "lore": "Beneath the tranquil surface, secrets of the deep await your command. Harness the waters and unlock the mysteries of the ocean on your path to greatness. Within the boundless depths, a realm of enigma and wonder unfurls. It beckons you to plunge into its mysteries, to dive beneath the surface, and explore the secrets hidden in the embrace of the ocean's embrace. As you embrace the essence of water, you become the steward of its arcane might. With each whisper of the tides, you unlock the secrets of ancient sea creatures and the timeless wisdom of the waves. The water responds to your call, entrusting you with the power to shape its liquid form to your will. From gentle ripples to formidable tsunamis, you command the boundless potential of the ocean. This is the path of the aquamancer, a journey through the fluid realm of tides and secrets, a voyage of waves and enlightenment. Channel the depths of water's knowledge, uncover the submerged mysteries, and let your journey through liquid realms leave a profound mark on the world. Embrace the endless possibilities of water's embrace, and become a master of the aquatic domain!",
+    "info": {
+      "rates": "low",
+      "exp": "x50",
+      "drop": "x50",
+      "safeChantArmor": 6,
+      "maxChantArmor": 12,
+      "safeChantWeapon": 6,
+      "maxChantWeapon": 12,
+      "custom": false
+    },
+    "download": "https://www.mega.com",
+    "background-img": "/src/images/backgrounds/bg_pag_info_water.png"
+  },
+  "FIRE": {
+    "name": "fire",
+    "id": "FIRE",
+    "lore": "The burning fire of passion consumes you. Harness the flames and unleash the fury of the dragon upon your foes! In the heart of your being, an inferno blazes with unrelenting intensity. It's a fire that knows no bounds, a fervor that ignites your very soul. As you embrace the essence of fire, you wield the power to command its incendiary might. With each incantation, you stoke the inferno within, invoking the untamed spirit of the dragon. The flames answer your call, enveloping you in a shroud of awe-inspiring power. From the searing heat of your spells to the roaring blaze of your wrath, you embody the relentless force of fire itself. This is the path of the pyromancer, a journey through flames and passion, a dance of inferno and will. Channel the seething energy of the fire, turn adversity into ashes, and let the firestorm of your destiny leave a scorching mark on this fantastical realm. Forged in the crucible of your own burning desire, become the master of the flames and conquer all who dare to challenge you!",
+    "info": {
+      "rates": "low",
+      "exp": "x500",
+      "drop": "x100",
+      "safeChantArmor": 12,
+      "maxChantArmor": 18,
+      "safeChantWeapon": 14,
+      "maxChantWeapon": 20,
+      "custom": true
+    },
+    "download": "https://www.mega.com",
+    "background-img": "/src/images/backgrounds/bg_pag_info_fire.png"
+  },
+  "WIND": {
+    "name": "wind",
+    "id": "WIND",
+    "lore": "The wind carries ancient secrets in its gentle whispers. It beckons to you, inviting you to spread your wings and soar through the boundless skies with the enchanting power of the wind at your command. As you harness the mystical essence of the breeze, you become a master of the unseen currents that traverse the heavens. Hear the ageless tales concealed within the zephyrs, and let them guide you to newfound heights. With the wind as your ally, you'll navigate the celestial expanse, your presence leaving a trail of awe and wonder. Embrace the exhilaration of flight and the ethereal dance of air and sky. Channel the wind's might to propel you to daring feats and explore the far reaches of this mesmerizing world. From gusts to gales, you'll harness the full spectrum of wind's power, unlocking its ancient secrets to become a true aerial sorcerer. With the wind's wisdom in your heart and your spirit as free as the breeze, you'll carve your legend into the boundless canvas of the skies. Prepare to embark on a journey like no other, where the secrets of the wind are yours to uncover. Take flight, master of the elements!",
+    "info": {
+      "rates": "low",
+      "exp": "x9999",
+      "drop": "x9999",
+      "safeChantArmor": 18,
+      "maxChantArmor": 25,
+      "safeChantWeapon": 25,
+      "maxChantWeapon": 30,
+      "custom": true
+    },
+    "download": "https://www.mega.com",
+    "background-img": "/src/images/backgrounds/bg_pag_info_wind.png"
+  }
+}

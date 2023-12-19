@@ -22,6 +22,8 @@ body,
 }
 
 body {
+  display: flex;
+  justify-content: center;
   width: 100vw;
   height: 100vh;
   margin: 0 0;
@@ -38,6 +40,7 @@ header {
 
 aside {
   grid-area: aside;
+  height: 700px;
 }
 
 main {
